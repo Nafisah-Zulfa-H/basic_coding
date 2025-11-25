@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Momo+Signature&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: rgb(21, 47, 61);
+    background-image: url("flower_bg.jpg");
+    background-size: 1000px;
+}
+
+#whole{
+    margin-top: 300px;
+    margin-left: 300px;
+    display: flex;
+}
+
+#title {
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+        border-radius: 25px;
+        background-color: rgb(15, 42, 57);
+        padding: 25px 25px;
+        width: 340px;
+        height: 250px;
+}
+
+#link-container{
+    font-size: 35px;
+    font-family: "DM Sans", sans-serif;
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 135px;
+    margin-left: 50px;
+}
+
+.div {
+    text-align: center;
+    border-radius: 25px;
+    background-color: antiquewhite;
+    padding: 25px 50px;
+    width: 200px;
+    height: 100px;
+    margin-right: 50px;
+}
+
+.div a{
+    text-decoration: none;
+    color: saddlebrown;
+    margin-top: 20px;
+}

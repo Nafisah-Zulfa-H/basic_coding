@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DotGothic16&family=Mochiy+Pop+One&family=Mochiy+Pop+P+One&family=Momo+Signature&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Potta+One&family=Rampart+One&family=RocknRoll+One&family=Slackside+One&family=Yuji+Syuku&display=swap');
+
+body {
+    background-color: rgb(255, 243, 226);
+}
+
+#h1 {
+    font-family: "Mochi Pop P One", sans-serif;
+    font-size: 60px;
+    color: white;
+    text-align: left;
+    margin-top: 35px;
+    margin-left: 700px;
+    border-radius: 15px;
+    background-color: rgb(70, 49, 35);
+    text-shadow: 2px 2px 20px black;
+    padding: 20px;
+    width: 240px;
+    
+
+}
+
+#p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    color: saddlebrown;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 35px;
+}
+
+#paragraph {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.p2p3 {
+    font-family: "Montserrat", sans-serif;
+}
+
+#tooiawase {
+    font-family: "Mochi Pop P One", sans-serif;
+    font-size: 40px;
+    color: saddlebrown;
+    text-align: left;
+}
+
+#paragraph {
+    font-family: "Yuji Syuku", serif;
+    font-size: 20px;
+    color: saddlebrown;
+    text-align: left;
+}
+
+#tooiawase-form {
+    font-family: "Yuji Syuku", serif;
+
+}
+
+table {
+    width: 100%;
+    font-family: "DM Sans", sans-serif;
+    font-family: "Yuji Syuku", serif;
+    background-color:white;
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid rgb(23, 35, 20);
+    color: rgb(22, 32, 19);
+}
+
+tr:nth-child(even){background-color: rgb(225, 225, 225);}
+
+th {
+    background-color: rgb(63, 98, 52);
+}
